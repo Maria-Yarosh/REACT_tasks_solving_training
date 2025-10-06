@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.company_role {
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    border: solid 1px;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
